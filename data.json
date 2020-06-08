@@ -1,0 +1,214 @@
+{
+    "home": {
+          "name": "Mohamad Farhan",
+          "picture": "https://avatars0.githubusercontent.com/u/58340587?v=4",
+          "label": "Web Developer | Graphic Designer",
+          "summary": "I am a programmer IT I am eager to be challenged in order to grow and further improve my IT skills. I am eager to learn, I enjoy overcoming challenges, and I have a genuine interest in IT and making Company successful.",
+          "region": "Bogor, Ciomas",
+          "location": "Indonesia"
+        },
+    
+    "about": {
+      "education": [
+        {
+            "institution": "SD Rimba Putra",
+            "icon" : "fas fa-book-open",
+            "studyType": [],
+            "start": {
+              "year": 2004,
+              "month": null
+            },
+            "end": {
+              "year": 2010,
+              "month": null
+            }
+        },
+        {
+            "institution": "SMP Negeri 1 Ciomas",
+            "icon" : "fas fa-book-reader",
+            "studyType": [],
+            "start": {
+              "year": 2010,
+              "month": null
+            },
+            "end": {
+              "year": 2013,
+              "month": null
+            }
+        },
+        {
+          "institution": "SMA Rimba madya",
+          "icon" : "fas fa-school",
+          "studyType": "Science",
+          "start": {
+            "year": 2013,
+            "month": null
+          },
+          "end": {
+            "year": 2016,
+            "month": null
+          }
+        },
+        {
+          "institution": "UNBIN Binaniaga Bogor",
+          "icon" : "fas fa-university",
+          "studyType": "Science",
+          "start": {
+            "year": 2018,
+            "month": null
+          },
+          "end": {
+            "year": "now",
+            "month": null
+          }
+        }
+      ],
+      "work": [
+        {
+          "company": "Rakatama Digital Printing",
+          "position": "Graphic Designer",
+          "location": "Bogor, Pandu Raya",
+          "summary": "make a design in accordance with the wishes of the client and operate the printing machine",
+          "website": "",
+          "start": {
+            "year": 2016,
+            "month": "October"
+          },
+          "end": {
+            "year": 2017,
+            "month": "January"
+          }
+        },
+        {
+          "company": "Gets Academy",
+          "position": "Administration",
+          "location": "Bogor, Pasir Kuda",
+          "summary": "manage finances every month",
+          "website": "",
+          "start": {
+            "year": 2017,
+            "month": "February"
+          },
+          "end": {
+            "year": 2017,
+            "month": "May"
+          }
+        },
+        {
+          "company": "Pt. Smart Tbk.",
+          "position": "Machine Operator",
+          "location": "Bogor, Sentul",
+          "summary": "Production Machine Operator, Make A Daily Report",
+          "website": "https://www.smart-tbk.com/",
+          "start": {
+            "year": 2017,
+            "month": "Agust"
+          },
+          "end": {
+            "year": 2019,
+            "month": "December"
+          }
+        }
+      ]
+    },
+
+    "skills":{
+      "graphicdesigner": [
+        {
+            "label": "Corel Draw, Adobe Illustrator, & Adobe Photoshop",
+            "imagegd": ["brosur.png","totebag.png","joker-logo.png","logo_laundry.png"],
+            "imageps": ["ps1.jpg","ps2.jpg","ps3.jpg"],
+            "start": {
+              "year": 2013,
+              "month": null
+            },
+            "end": {
+              "year": "now",
+              "month": null
+            },
+            "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Id, ratione quam voluptatem, sint est voluptates quidem assumenda amet, possimus doloribus totam qui facilis sequi architecto? Officia minus iure hic vel!",
+            "progress": [
+              {
+                "title" : "Adobe Photoshop",
+                "value" : "50",
+                "desc"  : "Finishing, manipulation Image"
+              },
+              {
+                "title" : "Corel Draw & Adobe Illustrator",
+                "value" : "60",
+                "desc"  : "Voctor Art, Tricing Image, Banner, Pamflet, etc."
+              }
+            ]
+        }
+      ],
+      "programmer": [
+        {
+          "label": "HTML5, CSS, JS",
+          "start": {
+            "year": 2013,
+            "month": null
+          },
+          "end": {
+            "year": "now",
+            "month": null
+          },
+          "framework": [
+            {
+              "title" : "Adobe Photoshop",
+              "value" : "50",
+              "desc"  : "Finishing, manipulation Image"
+            },
+            {
+              "title" : "Corel Draw & Adobe Illustrator",
+              "value" : "60",
+              "desc"  : "Voctor Art, Tricing Image, Banner, Pamflet, etc."
+            }
+          ]
+      }
+      ]
+    },
+    "comments" : [
+      {
+        "name" : "Mohamad Farhan",
+        "email" : "farhan.21144@gmail.com",
+        "rate" : "5",
+        "text" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. At soluta officiis nisi! Doloremque architecto praesentium tenetur quibusdam consequatur. Animi ea ad ducimus iure libero ut accusantium odit ab modi omnis?"
+      },
+      {
+        "name" : "Mohamad Farhan",
+        "email" : "farhan.21144@gmail.com",
+        "rate" : "5",
+        "text" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. At soluta officiis nisi! Doloremque architecto praesentium tenetur quibusdam consequatur. Animi ea ad ducimus iure libero ut accusantium odit ab modi omnis?"
+      }
+    ], 
+    "contact":{
+      "email": "farhan.21144@gmail.com",
+      "phone": "081293789159",
+      "social_media": [
+        {
+          "network": "facebook",
+          "username": "farhan.aan211",
+          "url": "https://facebook.com/farhan.aan211"
+        },
+        {
+          "network": "Instagram",
+          "username": "26farhaan",
+          "url": "https://Instagram.com/26farhaan"
+        },
+        {
+          "network": "Linkedin",
+          "username": "26farhaan",
+          "url": "linkedin.com/in/mohamad-farhan-7b1a6b194"
+        },
+        {
+          "network": "Github",
+          "username": "26farhaan",
+          "url": "https://github.com/26farhaan"
+        }
+      ]
+    },
+    
+        "languages": [],
+        "interests": [],
+        "undefined": []
+      }
